@@ -16,13 +16,13 @@ This curriculum is structured to take you from knowing zero Django to mastering 
   - [x] Entity Relationship Diagram (ERD) & Database Schema Design
   - [x] Set up local Git repository and production-ready `.gitignore`
 
-- [ ] **Phase 2: Django & DRF Foundation – Virtual Environments, Settings & Custom User Model**
-  - [ ] Understand Python virtual environments (`venv`) and dependency isolation
-  - [ ] Install Django, Django REST Framework, and supporting libraries
-  - [ ] Scaffold the Django backend project and understand project structure (`manage.py`, `settings.py`, `urls.py`, `asgi.py`/`wsgi.py`)
-  - [ ] Deep dive: Why a Custom User Model is mandatory before the first migration
-  - [ ] Build the `accounts` app and implement the Custom User Model
-  - [ ] Run initial migrations and configure Django Admin superuser
+- [x] **Phase 2: Django & DRF Foundation – Virtual Environments, Settings & Custom User Model**
+  - [x] Understand Python virtual environments (`venv`) and dependency isolation
+  - [x] Install Django, Django REST Framework, and supporting libraries
+  - [x] Scaffold the Django backend project and understand project structure (`manage.py`, `settings.py`, `urls.py`, `asgi.py`/`wsgi.py`)
+  - [x] Deep dive: Why a Custom User Model is mandatory before the first migration
+  - [x] Build the `accounts` app and implement the Custom User Model
+  - [x] Run initial migrations and configure Django Admin superuser
 
 - [ ] **Phase 3: Domain Modeling & Relationships – Workspaces, Projects & Issues**
   - [ ] Scaffold domain apps: `projects` and `issues`
