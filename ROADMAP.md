@@ -8,13 +8,13 @@ This curriculum is structured to take you from knowing zero Django to mastering 
 
 ## 🗺️ Curriculum Roadmap & Progress Tracker
 
-- [ ] **Phase 1: Project Blueprint, System Architecture & The Decoupled Mental Model**
-  - [ ] Understand Monolithic (Django Templates/MVT) vs Decoupled (DRF + Next.js) Architecture
-  - [ ] Grasp the Request-Response Lifecycle: Next.js -> HTTP -> Django URL -> View -> Serializer -> DB
-  - [ ] Deconstruct DevFlow System Design: Workspaces, Projects, Issues, and Team Roles
-  - [ ] Understand Django Apps philosophy: Why and how to separate concerns
-  - [ ] Entity Relationship Diagram (ERD) & Database Schema Design
-  - [ ] Set up local Git repository and production-ready `.gitignore`
+- [x] **Phase 1: Project Blueprint, System Architecture & The Decoupled Mental Model**
+  - [x] Understand Monolithic (Django Templates/MVT) vs Decoupled (DRF + Next.js) Architecture
+  - [x] Grasp the Request-Response Lifecycle: Next.js -> HTTP -> Django URL -> View -> Serializer -> DB
+  - [x] Deconstruct DevFlow System Design: Workspaces, Projects, Issues, and Team Roles
+  - [x] Understand Django Apps philosophy: Why and how to separate concerns
+  - [x] Entity Relationship Diagram (ERD) & Database Schema Design
+  - [x] Set up local Git repository and production-ready `.gitignore`
 
 - [ ] **Phase 2: Django & DRF Foundation – Virtual Environments, Settings & Custom User Model**
   - [ ] Understand Python virtual environments (`venv`) and dependency isolation
