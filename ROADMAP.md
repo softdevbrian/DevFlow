@@ -24,13 +24,13 @@ This curriculum is structured to take you from knowing zero Django to mastering 
   - [x] Build the `accounts` app and implement the Custom User Model
   - [x] Run initial migrations and configure Django Admin superuser
 
-- [ ] **Phase 3: Domain Modeling & Relationships – Workspaces, Projects & Issues**
-  - [ ] Scaffold domain apps: `projects` and `issues`
-  - [ ] Understand Django Model fields: CharField, TextField, SlugField, DateTimeField, Choices
-  - [ ] Model relationships in depth: One-to-Many (`ForeignKey`), Many-to-Many (`ManyToManyField`), cascade rules
-  - [ ] Auto-slug generation and string representations (`__str__`)
-  - [ ] Django Migrations engine explained: `makemigrations` vs `migrate` and internal state
-  - [ ] Customize Django Admin for rich model inspection and filtering
+- [x] **Phase 3: Domain Modeling & Relationships – Workspaces, Projects & Issues**
+  - [x] Scaffold domain apps: `projects` and `issues`
+  - [x] Understand Django Model fields: CharField, TextField, SlugField, DateTimeField, Choices
+  - [x] Model relationships in depth: One-to-Many (`ForeignKey`), Many-to-Many (`ManyToManyField`), cascade rules
+  - [x] Auto-slug generation and string representations (`__str__`)
+  - [x] Django Migrations engine explained: `makemigrations` vs `migrate` and internal state
+  - [x] Customize Django Admin for rich model inspection and filtering
 
 - [ ] **Phase 4: Serialization Mechanics – Bridging Python Objects and JSON**
   - [ ] What is Serialization and Deserialization in Web APIs?
